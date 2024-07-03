@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="shortcut icon" href="favicon.ico">
+
+    
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+    <title>Portafolio</title>
+  </head>
+
+  <body>
+    
+    <nav>
+      <h1>Luis Fernando Pérez Salamanca</h1>
+      <ul class="navigation">
+        <li><a href="#about" class="nav-link">Sobre mi</a></li>
+        <li><a href="#skills" class="nav-link">Habilidades</a></li>
+        <li><a href="#projects" class="nav-link">Proyectos</a></li>
+        <li><a href="#contact" class="nav-link">Contactame  </a></li>
+      </ul>
+      <button class="menu" id="menu">
+        <ion-icon class="bars" name="menu-outline"></ion-icon>
+        
+      </button>
+    </nav>
+    
+    
+
+  
+    <section class="hero" id="about">
+      <img
+        src="image.jpeg"
+        alt="Luis Fernando Pérez Salamanca" 
+
+      />
+      <div class="bio animate__animated animate__shakeX">
+        <h2 class="bio-title">Sobre mi</h2>
+        <p class="bio-text">
+          Soy un joven programador de 17 años con conocimientos en HTML, CSS, C++, Git, Python, GitHub, entre otros. Me gusta aprender cosas nuevas y siempre estoy dispuesto a ayudar a los demás.
+        </p>
+      </div>
+    </section>
+
+
+    <section class="more-about">
+      <h2>Mas sobre mi</h2>
+      <strong>
+      <p>
+        Poseo Habilidades en el manejo de herramientas como Adobe Photoshop, Adobe Illustrator, entre otros. 
+        Me gusta el diseño y la programación, por lo que siempre busco la manera de combinar ambas cosas en mis proyectos.
+      </p>
+      <p>
+        Mi nivel de ingles es B2, lo que me ayuda a comunicar mis ideas de muy buena forma en este idioma, entiendo los temas
+         y estoy en constante aprendizaje para mejorar mis habilidades en el idioma.
+      </p>
+      <p>
+        Además mis habilidades blandas son muy buenas, tengo la capacidad de trabajar en equipo, soy muy responsable, disciplinado,	
+        y destaco por mi capacidad de liderar y resolver problemas de manera eficiente. 
+      </p>
+      </strong>
+    </section>
+
+    
+    <section class="skills" id="skills">
+      <h2 class="skill-header">Mis Habilidades</h2>
+
+      <div class="skills-wrapper">
+        <div class="first-set animate__animated animate__pulse">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"
+            alt=""
+            loading="lazy"
+            class="icon icon-card"
+          />
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png"
+            alt=""
+            loading="lazy"
+            class="icon icon-card"
+          />
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
+            alt=""
+            loading="lazy"
+            class="icon icon-card"
+          />
+        </div>
+
+        <div class="second-set animate__animated animate__pulse">
+          <img
+            src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"
+            alt=""
+            loading="lazy"
+            class="icon icon-card"
+          />
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s"
+            alt=""
+            loading="lazy"
+            class="icon icon-card"
+          />
+          <img
+            src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"
+            alt=""
+            loading="lazy"
+            class="icon icon-card"
+          />
+        </div>
+      </div>
+    </section>
+
+    <section class="projects" id="projects">
+      <h2 class="projects-title">Mi proyecto mas reciente:</h2>
+      <div class="projects-container">
+        <div class="project-container project-card">
+          <img
+            src="foto1.jpeg"
+            alt="Campus"
+            loading="lazy"
+            class="project-pic"
+          />
+          <h3 class="project-title">Terminal Campuslands</h3>
+          <p class="project-details">
+            Sistema de terminal para la administración de gestion de roles y acciones en Campuslands
+          </p>
+          <a href="https://github.com/L-Salamanca/U2-Proyecto-PYTHON-LFPS" target="_blank" class="project-link">Click aqui para ver</a>
+    </section>
+
+    
+    <section class="contact" id="contact">
+      <h2>Contactame</h2>
+      <div class="contact-form-container">
+        <div class="contact-form">
+          <form action="file:///C:/Users/luisf/OneDrive/Escritorio/developer-portfolio-master/index.html" method="POST">
+            <div class="form-control">
+              <label for="name">Name</label>
+              <input
+                type="text"
+                id="name"
+                name="sender-name"
+                placeholder="Enter Your Name"
+                class="input-field"
+                required
+              />
+            </div>
+            <div class="form-control">
+              <label for="email">Email</label>
+              <input
+                type="email"
+                id="email"
+                name="sender-email"
+                placeholder="Enter Your Email"
+                class="input-field"
+                required
+              />
+            </div>
+            <div class="form-control">
+              <label for="message">Message</label>
+              <textarea
+                id="message"
+                cols="60"
+                rows="10"
+                placeholder="Enter Your Message"
+                name="message"
+                class="input-field"
+                required
+              ></textarea>
+            </div>
+            <input
+              type="submit"
+              value="Submit"
+              id="submit-btn"
+              class="submit-btn"
+            />
+          </form>
+        </div>
+      </div>
+    </section>
+
+   
+    <div class="socials">
+      
+      <a href="https://www.instagram.com/l.salamancaa/" target="_blank"
+        ><img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png"
+          alt="Instagram"
+          loading="lazy"
+          class="socicon"
+      /></a>
+      <a href="https://github.com/L-Salamanca" target="_blank"
+        ><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" class="socicon"
+      /></a>
+    </div>
+
+    
+
+    
+    <footer>
+      <p class="copy">&copy; Copyright 2024</p>
+      <p class="copy">
+        Hecho por 
+        <a href="https://github.com/L-Salamanca" target="_blank"
+          >Luis Fernando Pérez Salamanca</a
+        >
+      </p>
+    </footer>
+  </body>
+</html>
