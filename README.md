@@ -14,7 +14,7 @@ programación.
 - Contáctame: Un formulario de contacto para que visitantes puedan comunicarse conmigo fácilmente.
 - Redes Sociales: Enlaces a mis perfiles de Instagram y GitHub.
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - HTML
 - CSS
 
@@ -24,11 +24,11 @@ Para clonar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
 2. Navega al directorio del proyecto
 3. Abre index.html en tu navegador web preferido.
 
-#uso
+# uso
 Explora las diferentes secciones del portafolio para conocer más sobre mí, mis habilidades y proyectos. Utiliza el formulario de contacto para enviarme un mensaje directamente.
 
-##Contribución
+## Contribución
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
-##Agradecimientos
+## Agradecimientos
 Este proyecto fue creado por Luis Fernando Pérez Salamanca
