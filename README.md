@@ -26,8 +26,8 @@ Para clonar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
 2. Navega al directorio del proyecto
 3. Abre index.html en tu navegador web preferido.
 
-# uso
-Explora las diferentes secciones del portafolio para conocer más sobre mí, mis habilidades y proyectos. Utiliza el formulario de contacto para enviarme un mensaje directamente.
+# Uso
+Explora las diversas secciones de mi portafolio para descubrir más acerca de quién soy, mis habilidades técnicas y los proyectos que he desarrollado. Cada sección está diseñada para proporcionar una visión detallada y estructurada de mi experiencia en desarrollo web y programación. Desde una galería interactiva de proyectos hasta descripciones detalladas de mis competencias en diferentes tecnologías y herramientas, encontrarás información relevante para evaluar mi capacidad y profesionalismo. Además, utiliza el formulario de contacto para comunicarte directamente conmigo. Estoy aquí para responder preguntas, discutir oportunidades de colaboración o simplemente intercambiar ideas sobre el desarrollo web y la programación. 
 
 ## Contribución
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
