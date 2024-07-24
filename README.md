@@ -20,7 +20,7 @@ programación.
 
 ## Instalación
 Para clonar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
-1. clona el repositorio: git clone https://github.com/L-Salamanca/tu-repositorio.git
+1. clona el repositorio: git clone https://github.com/L-Salamanca/Portafolio-Web
 2. Navega al directorio del proyecto
 3. Abre index.html en tu navegador web preferido.
 
