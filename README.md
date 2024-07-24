@@ -2,9 +2,11 @@
 
 ## Descripción
 
-Este proyecto es una página web de portafolio personal que presenta mis habilidades,
-proyectos y formas de contacto. Está diseñado para mostrar mi experiencia en desarrollo web y 
-programación.
+Este proyecto de página web de portafolio personal está cuidadosamente diseñado para ser una vitrina digital de mis habilidades y logros en el campo del desarrollo web y la programación. A través de un diseño intuitivo y moderno, la página no solo presenta una selección de mis proyectos más destacados, sino que también ofrece una visión profunda de mis competencias técnicas y experiencia práctica. Cada sección del sitio está estratégicamente organizada para proporcionar información detallada sobre mis habilidades en diferentes tecnologías, métodos de desarrollo y lenguajes de programación. Además, se incluyen enlaces a proyectos específicos que muestran mi capacidad para resolver problemas y crear soluciones efectivas. El objetivo final es no solo captar la atención de potenciales empleadores o colaboradores, sino también servir como una herramienta efectiva para demostrar mi pasión y compromiso con el desarrollo web de alta calidad.
+
+
+
+
 
 ## Contenidos
 
