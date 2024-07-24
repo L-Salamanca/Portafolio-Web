@@ -29,8 +29,5 @@ Para clonar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
 # Uso
 Explora las diversas secciones de mi portafolio para descubrir más acerca de quién soy, mis habilidades técnicas y los proyectos que he desarrollado. Cada sección está diseñada para proporcionar una visión detallada y estructurada de mi experiencia en desarrollo web y programación. Desde una galería interactiva de proyectos hasta descripciones detalladas de mis competencias en diferentes tecnologías y herramientas, encontrarás información relevante para evaluar mi capacidad y profesionalismo. Además, utiliza el formulario de contacto para comunicarte directamente conmigo. Estoy aquí para responder preguntas, discutir oportunidades de colaboración o simplemente intercambiar ideas sobre el desarrollo web y la programación. 
 
-## Contribución
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:
-
 ## Agradecimientos
 Este proyecto fue creado por Luis Fernando Pérez Salamanca
